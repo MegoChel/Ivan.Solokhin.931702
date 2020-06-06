@@ -1,0 +1,11 @@
+D:\Labs\volkov.alexey.931702.labs-SecondLab\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+D:\Labs\volkov.alexey.931702.labs-SecondLab\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+D:\Labs\volkov.alexey.931702.labs-SecondLab\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+D:\Labs\volkov.alexey.931702.labs-SecondLab\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+D:\Labs\volkov.alexey.931702.labs-SecondLab\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+D:\Labs\volkov.alexey.931702.labs-SecondLab\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojAssemblyReference.cache
+D:\Labs\volkov.alexey.931702.labs-SecondLab\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Labs\volkov.alexey.931702.labs-SecondLab\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Labs\volkov.alexey.931702.labs-SecondLab\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+D:\Labs\volkov.alexey.931702.labs-SecondLab\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+D:\Labs\volkov.alexey.931702.labs-SecondLab\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
