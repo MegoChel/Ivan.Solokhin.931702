@@ -1,0 +1,12 @@
+D:\Labs\MegoChel\Ivan.Solokhin.931702\Lab5\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Labs\MegoChel\Ivan.Solokhin.931702\Lab5\bin\Debug\netcoreapp2.0\Lab5.deps.json
+D:\Labs\MegoChel\Ivan.Solokhin.931702\Lab5\bin\Debug\netcoreapp2.0\Lab5.runtimeconfig.json
+D:\Labs\MegoChel\Ivan.Solokhin.931702\Lab5\bin\Debug\netcoreapp2.0\Lab5.runtimeconfig.dev.json
+D:\Labs\MegoChel\Ivan.Solokhin.931702\Lab5\bin\Debug\netcoreapp2.0\Lab5.dll
+D:\Labs\MegoChel\Ivan.Solokhin.931702\Lab5\bin\Debug\netcoreapp2.0\Lab5.pdb
+D:\Labs\MegoChel\Ivan.Solokhin.931702\Lab5\obj\Debug\netcoreapp2.0\Lab5.csprojAssemblyReference.cache
+D:\Labs\MegoChel\Ivan.Solokhin.931702\Lab5\obj\Debug\netcoreapp2.0\Lab5.csproj.CoreCompileInputs.cache
+D:\Labs\MegoChel\Ivan.Solokhin.931702\Lab5\obj\Debug\netcoreapp2.0\Lab5.AssemblyInfoInputs.cache
+D:\Labs\MegoChel\Ivan.Solokhin.931702\Lab5\obj\Debug\netcoreapp2.0\Lab5.AssemblyInfo.cs
+D:\Labs\MegoChel\Ivan.Solokhin.931702\Lab5\obj\Debug\netcoreapp2.0\Lab5.dll
+D:\Labs\MegoChel\Ivan.Solokhin.931702\Lab5\obj\Debug\netcoreapp2.0\Lab5.pdb
